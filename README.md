@@ -27,7 +27,7 @@
 
 ## Contato
 
-- 📧 Email: thiagosanchess52@email.com
-- 📱 Número: +55 73 98837-9993
+- 📧 [Email](thiagosanchess52@email.com)
+- 📱 [Número](+55 73 98837-9993)
 - 💼 [LinkedIn](https://www.linkedin.com/in/thiago-sanches-hohlenwerger-117972234/)
 
