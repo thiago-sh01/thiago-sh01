@@ -1,7 +1,33 @@
-# Hello World
-Meu nome é Thiago, sou de setembro de 2003. Sou um Desenvolvedor de Softwere FullStack, iniciando nesse ramo que estou amando tanto que é a programação, iniciei no ano de 2022. Estou no final do meu curso, e sempre em busca de aprender mais e mais sobre programação. Estou aprendendo sobre HTML5, JavaScript, TypeScript, React, CSS. Já querendo por tudo em prática.
+# Thiago Sanches Hohlenwerger
 
-## Hard Skills:
-Bom comunicador, Bom em grupo, Extrovertido, Proucura sempre aprender
+👋 Olá! Sou Thiago, um entusiasta de programação nascido em setembro de 2003, atualmente explorando o vasto mundo do desenvolvimento de software. Estou apaixonado por transformar linhas de código em soluções incríveis.
 
-### Melhor morrer tentando, do que viver sem ter tentado nada - Eu Mesmo 
+## Sobre Mim
+
+- 🎓 Concluindo meu curso de Desenvolvimento de Software.
+- 💻 Desenvolvedor Web Full Stack, focado em tecnologias modernas.
+- 🌱 Aprendendo constantemente e sempre em busca de desafios emocionantes.
+
+## Habilidades e Tecnologias
+
+- 🚀 HTML5 | JavaScript | TypeScript | React | Node.js | CSS
+- 🔧 DOM (Document Object Model) | Bootstrap
+- 🌐 Construindo experiências web interativas e responsivas.
+
+## Projetos
+
+- 🛠️ Atualmente trabalhando em projetos pessoais para aplicar meus conhecimentos.
+- 📚 Contribuindo para projetos de código aberto e aprendendo com a comunidade.
+
+## Características Pessoais
+
+- 🗣️ Bom comunicador e colaborador eficaz em equipe.
+- 😄 Extrovertido e apaixonado por aprender.
+- 🎯 Sempre em busca de aprimorar minhas habilidades e conhecimentos.
+
+## Contato
+
+- 📧 Email: thiagosanchess52@email.com
+- 📱 Número: +55 73 98837-9993
+- 💼 [LinkedIn](https://www.linkedin.com/in/thiago-sanches-hohlenwerger-117972234/)
+
