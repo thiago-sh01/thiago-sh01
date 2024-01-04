@@ -25,6 +25,18 @@
 - 😄 Extrovertido e apaixonado por aprender.
 - 🎯 Sempre em busca de aprimorar minhas habilidades e conhecimentos.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-sh01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Principais Linguagens
+
+- JavaScript: 20%
+- TypeScript: 10%
+- PostgreSQL: 10%
+- CSS: 20%
+- DOM: 20%
+- Node.js: 20%
+
+
 ## Contato
 
 - 📧 [Email](thiagosanchess52@email.com)
