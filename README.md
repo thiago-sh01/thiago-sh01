@@ -25,21 +25,15 @@
 - 😄 Extrovertido e apaixonado por aprender.
 - 🎯 Sempre em busca de aprimorar minhas habilidades e conhecimentos.
 
+
+## Principais Linguagens
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow)](https://github.com/thiago-sh01)
 [![TypeScript](https://img.shields.io/badge/TypeScript-10%25-blue)](https://github.com/thiago-sh01)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10%25-orange)](https://github.com/thiago-sh01)
 [![CSS](https://img.shields.io/badge/CSS-20%25-purple)](https://github.com/thiago-sh01)
 [![DOM](https://img.shields.io/badge/DOM-20%25-green)](https://github.com/thiago-sh01)
 [![Node.js](https://img.shields.io/badge/Node.js-20%25-green)](https://github.com/thiago-sh01)
-
-## Principais Linguagens
-
-- JavaScript: 20%
-- TypeScript: 10%
-- PostgreSQL: 10%
-- CSS: 20%
-- DOM: 20%
-- Node.js: 20%
 
 ## Contato
 
