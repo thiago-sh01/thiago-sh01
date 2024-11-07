@@ -28,6 +28,7 @@
 
 ## Contato
 
-- 📧 [Email](thiagosanchess52@email.com)
+- 📧 [Email](thiagosh.dev@email.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/thiago-sanches-hohlenwerger-117972234/)
+- 📓 [Portifólio](https://portfolio-3rv1kmhdc-thiago-sh01s-projects.vercel.app)
 
